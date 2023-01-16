@@ -16,15 +16,6 @@
 - [이 책에 관한 대화](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/01-dialogue-threeeasy.pdf)
 
 ## Index
-- [Introduction to OS](#introduction-to-os)
-- [Part1. Virtualization](#part1-virtualization)
-  - [1. CPU Virtualization](#1-cpu-virtualization)
-
-
-## [Introduction to OS](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/02-intro.pdf)
-
----
-
-## Part1. Virtualization
-
-### 1. [CPU Virtualization](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/03-dialogue-virtualization.pdf)
+- [Introduction to OS](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/02-intro.pdf)
+- Part1. Virtualization
+  - [1. CPU Virtualization](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/03-dialogue-virtualization.pdf)
