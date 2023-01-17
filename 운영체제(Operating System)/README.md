@@ -6,6 +6,10 @@
 - 저자: Remzi Arpaci-Dusseau, Andrea Arpaci-Dusseau
 - 자료: [강의 링크](https://pdos.csail.mit.edu/6.828/2016/xv6.html)
 
+## 과제
+- 과제: [Homework](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
+- 과제 github: [Homework github](https://github.com/remzi-arpacidusseau/ostep-homework/)
+
 ## 규칙
 - 매주 월 ~ 토요일까지 해당 주차의 내용 공부
 - 매일 공부한 내용을 "공부 과정 공유"에 올리기
