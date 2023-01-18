@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e013a7af3c462d68",
+        "id": "0cbe5be0804fcdd5",
         "type": "tabs",
         "children": [
           {
-            "id": "cd28e4d794fc3959",
+            "id": "51d1079643d940f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영체제(Operating System)/0.Introduction_to_OS.md",
+                "file": "운영체제(Operating System)/Part1 Virtualization/1. Tha Abstraction: The Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6b83cfa6b0e14e36",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영체제(Operating System)/0.Introduction_to_OS.md",
+                "file": "운영체제(Operating System)/Part1 Virtualization/1. Tha Abstraction: The Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제(Operating System)/0.Introduction_to_OS.md",
+                "file": "운영체제(Operating System)/Part1 Virtualization/1. Tha Abstraction: The Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제(Operating System)/0.Introduction_to_OS.md"
+                "file": "운영체제(Operating System)/Part1 Virtualization/1. Tha Abstraction: The Process.md"
               }
             }
           }
@@ -147,8 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cd28e4d794fc3959",
+  "active": "87b626dd72eb7fd4",
   "lastOpenFiles": [
+    "img/prgram_to_process.png.md",
+    "운영체제(Operating System)/Part1 Virtualization/1. Tha Abstraction: The Process.md",
+    "img/img/program_to_process.png",
+    "운영체제(Operating System)/Part0 Introduction/0. Introduction to OS.md",
     "().md",
     "운영체제(Operating System)/0.Introduction_to_OS.md"
   ]
