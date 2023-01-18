@@ -24,7 +24,7 @@
 - [Introduction to OS](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/02-intro.pdf)
 - Part1. Virtualization
   - [1. CPU Virtualization](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/03-dialogue-virtualization.pdf)
-    - [The Abstraction: The Process & Interlude: Process API](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/05-cpu-api.pdf)
+    - [The Abstraction: The Process & Interlude: Process API & Interlude: Process API](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/05-cpu-api.pdf)
     - [Mechanism: Limited Direct Execution](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/06-cpu-mechanisms.pdf)
     - [Scheduling: Introduction](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/07-cpu-sched.pdf)
     - [Scheduling: The Multi-Level Feedback Queue](https://pages.cs.wisc.edu/~remzi/OSTEP/Korean/08-cpu-sched-mlfq.pdf)
